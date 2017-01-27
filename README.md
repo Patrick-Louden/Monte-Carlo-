@@ -1,0 +1,1 @@
+This repository contains sample code for a monte carlo simulation of argon, as well as an analysis script that computes the radial distribution function. 
